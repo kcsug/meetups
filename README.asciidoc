@@ -1,5 +1,11 @@
 = Past Meetups
 
+== October 1, 2014 http://www.meetup.com/kc-spring/events/206434582/[Giving Spring some REST]
+
+* Presenter: https://twitter.com/habuma[Craig Walls]
+* Source Code: https://github.com/kcsug/SpringREST
+* https://github.com/kcsug/SpringREST/blob/4b5bf429baa60f4efc9cb50fd894b465d06b29be/SpringREST.pdf[Slides]
+
 == September 3, 2014 http://www.meetup.com/kc-spring/events/198992412/[Big data with Spring XD]
 
 * Presenter: https://twitter.com/michaelminella[Michael Minella]
