@@ -1,5 +1,11 @@
 = Past Meetups
 
+== December 3, 2014 http://www.meetup.com/kc-spring/events/210490932/[Building Reactive applications with Reactor]
+
+* Presenter: https://twitter.com/j_brisbin[Jon Brisbin]
+* Source Code: https://github.com/kcsug/reactor
+* https://github.com/kcsug/reactor/blob/f8b68b0cc0027b60569f96eaf76980da21f6f4f1/Reactor%20Reactive%20Streams.pdf[Slides]
+
 == October 1, 2014 http://www.meetup.com/kc-spring/events/206434582/[Giving Spring some REST]
 
 * Presenter: https://twitter.com/habuma[Craig Walls]
