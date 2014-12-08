@@ -6,6 +6,11 @@
 * Source Code: https://github.com/kcsug/reactor
 * https://github.com/kcsug/reactor/blob/f8b68b0cc0027b60569f96eaf76980da21f6f4f1/Reactor%20Reactive%20Streams.pdf[Slides]
 
+== November 3, 2014 http://www.meetup.com/kc-spring/events/209477622/[Spring Under the Hood]
+
+* Presenter: https://twitter.com/fpmoles[Frank Moley]
+* https://github.com/kcsug/under-the-hood/raw/0a9e589971557d95306f904d508e46dba0657047/presentation/springUnderTheHoodPresentation.pdf[Slides]
+
 == October 1, 2014 http://www.meetup.com/kc-spring/events/206434582/[Giving Spring some REST]
 
 * Presenter: https://twitter.com/habuma[Craig Walls]
