@@ -1,5 +1,26 @@
 = Past Meetups
 
+== April 1, 2015 http://www.meetup.com/kc-spring/events/220895935/[Mastering Workflows in the Browser with Spring Web Flow]
+
+* Presenter: Craig Fulton
+* Source Code: https://github.com/kcsug/mastering-workflows
+* https://github.com/kcsug/master-webflows/blob/763fc795aa5c62ce2820e8477906c24404f31acd/SpringWebFlow.pdf[Slides]
+
+== March 4, 2015 http://www.meetup.com/kc-spring/events/219065659/["Bootiful" Microservices with Spring Cloud]
+
+* Presenter: https://twitter.com/starbuxmann[Josh Long]
+* Source Code: https://github.com/kcsug/bootiful-microservices
+* Recorded Talk: https://www.youtube.com/watch?v=VPtlZLdm7Nc
+* http://www.slideshare.net/joshlong/microservices-with-spring-boot[Slides]
+
+== February 4, 2015
+
+No Meetup due to weather
+
+== January 7, 2015
+
+No Meetup due to holidays
+
 == December 3, 2014 http://www.meetup.com/kc-spring/events/210490932/[Building Reactive applications with Reactor]
 
 * Presenter: https://twitter.com/j_brisbin[Jon Brisbin]
