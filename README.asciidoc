@@ -1,6 +1,8 @@
 = Past Meetups
+
 == May 6, 2015 http://www.meetup.com/kc-spring/events/220306706/[Configuring Spring with Java with Anand Natarajan]
-* Presenter:
+
+* Presenter: Anand Natarajan
 * Source Code: https://github.com/kcsug/spring-java-config
 * https://github.com/kcsug/spring-java-config/blob/master/ConfiguringSpringWithJava.pptx[Powerpoint]
 
