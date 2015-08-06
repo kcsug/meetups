@@ -1,5 +1,11 @@
 = Past Meetups
 
+== August 5, 2015 https://github.com/kcsug/spring-batch-08-2015[Spring Batch Technology Preview with Q&A]
+
+* Presenter: https://twitter.com/wdpitt[David Pitt]
+* Source Code: https://github.com/kcsug/spring-batch-08-2015/
+* https://github.com/kcsug/spring-batch-08-2015/blob/2205662c52ecbe658ec261e710f9f803e5ac8275/David%20Pitt%20Spring%20Batch%20SUG%20Presentation%208.5.15.pdf[Slides]
+
 == May 6, 2015 http://www.meetup.com/kc-spring/events/220306706/[Configuring Spring with Java with Anand Natarajan]
 
 * Presenter: Anand Natarajan
