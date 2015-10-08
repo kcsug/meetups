@@ -1,5 +1,15 @@
 = Past Meetups
 
+== October 7, 2015 https://github.com/kcsug/spring-batch-08-2015[The State of Securing RESTful APIs with Spring]
+
+* Presenter: https://twitter.com/rob_winch[Rob Winch]
+* https://github.com/kcsug/state-of-securing-restful-apis/raw/master/state-of-securing-restful-apis-with-spring.pdf[Slides]
+
+== September 2, 2015 http://www.meetup.com/kc-spring/events/223151972/[Spring and Cloud Foundry, a match made in the cloud]
+
+* Presenter: Jonathan Regehr
+* Slides: TBD
+
 == August 5, 2015 https://github.com/kcsug/spring-batch-08-2015[Spring Batch Technology Preview with Q&A]
 
 * Presenter: https://twitter.com/wdpitt[David Pitt]
