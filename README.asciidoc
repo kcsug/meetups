@@ -1,5 +1,15 @@
 = Past Meetups
 
+== Feb 3, 2016 http://www.meetup.com/kc-spring/events/228092767[Hands on Spring Security]
+
+* Presenter: https://twitter.com/rob_winch[Rob Winch]
+* Source Code https://github.com/kcsug/spring-security-hands-on-4.1
+* Additional Links
+** http://pivotal.io/security/cve-2015-5211[RFD Attack in Spring Framework] 
+** https://spring.io/blog/2016/01/28/angularjs-escaping-the-expression-sandbox-for-xss[AngularJS - Escaping the Expression Sandbox for XSS]
+** https://fin1te.net/articles/xss-on-facebook-via-png-content-types/[An XSS on Facebook via PNGs & Wonky Content Types]
+** http://www.html5rocks.com/en/tutorials/security/content-security-policy/[An Introduction to Content Security Policy]
+
 == October 7, 2015 http://www.meetup.com/kc-spring/events/225045959[The State of Securing RESTful APIs with Spring]
 
 * Presenter: https://twitter.com/rob_winch[Rob Winch]
