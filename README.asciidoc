@@ -1,5 +1,11 @@
 = Past Meetups
 
+== April 6, 2016 http://www.meetup.com/kc-spring/events/229167315/[Hystrix to Prevent Hysterix]
+
+* Presenter: https://github.com/monsondallas[Dallas Monson]
+* Source Code https://github.com/kcsug/khs-hystrix-demo
+* https://github.com/kcsug/khs-hystrix-demo/raw/master/Hystrix_Spring_User_Group_2016.pptx[Slides]
+
 == Feb 3, 2016 http://www.meetup.com/kc-spring/events/228092767[Hands on Spring Security]
 
 * Presenter: https://twitter.com/rob_winch[Rob Winch]
