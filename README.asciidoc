@@ -6,6 +6,12 @@
 * Source Code https://github.com/kcsug/khs-hystrix-demo
 * https://github.com/kcsug/khs-hystrix-demo/raw/master/Hystrix_Spring_User_Group_2016.pptx[Slides]
 
+== March 2, 2016 http://www.meetup.com/kc-spring/events/228804090/[How I learned to stop caring and started to love the HATEOAS]
+
+* Presenter: https://github.com/wkorando[Billy Korando]
+* Source Code https://github.com/kcsug/sug-hateoas-demo
+* https://docs.google.com/presentation/d/1wiuNQjORqvr_4eHUW6efps7toLcit8jdUmiEgIsKYEo/pub?start=false&loop=false&delayms=3000[Slides]
+
 == Feb 3, 2016 http://www.meetup.com/kc-spring/events/228092767[Hands on Spring Security]
 
 * Presenter: https://twitter.com/rob_winch[Rob Winch]
