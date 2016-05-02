@@ -10,7 +10,7 @@
 
 * Presenter: https://github.com/wkorando[Billy Korando]
 * Source Code https://github.com/kcsug/sug-hateoas-demo
-* https://docs.google.com/presentation/d/1wiuNQjORqvr_4eHUW6efps7toLcit8jdUmiEgIsKYEo/pub?start=false&loop=false&delayms=3000[Slides]
+* https://github.com/kcsug/sug-hateoas-demo/raw/master/dont-hate-the-hateoas.pptx[slides] (https://docs.google.com/presentation/d/1wiuNQjORqvr_4eHUW6efps7toLcit8jdUmiEgIsKYEo/pub?start=false&loop=false&delayms=3000[online version])
 
 == Feb 3, 2016 http://www.meetup.com/kc-spring/events/228092767[Hands on Spring Security]
 
