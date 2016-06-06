@@ -3,7 +3,7 @@
 == June 1, 2016 http://www.meetup.com/kc-spring/events/230115070/[Bootiful Data Integration]
 
 * Presenter: https://github.com/starbuxman[Josh Long]
-* Source Code https://github.com/kcsug/https://github.com/kcsug/kcjug-data
+* Source Code https://github.com/kcsug/kcjug-data
 
 == May 4, 2016 http://www.meetup.com/kc-spring/events/230115059/[Spring Rest Docs - Sharing your brilliance with the world]
 
