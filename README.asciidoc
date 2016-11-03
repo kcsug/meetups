@@ -1,5 +1,32 @@
 = Past Meetups
 
+== November 2nd, 2015 http://www.meetup.com/kc-spring/events/234597173/[Spring Integration in Action - Data Ingress]
+
+* Presenter https://twitter.com/rheaghen[Ryan McCullough]
+* https://docs.google.com/presentation/d/1M_LKNWF0fMklmLsYjD6hT5dPqgO5jrRkZDEzNokzD-I/edit?usp=sharing[Slides]
+* Source Code
+  * https://github.com/kcsug/int-file-demo[XML]
+  * https://github.com/kcsug/int-file-demo-xml[JavaConfig]
+
+== October 5th, 2016 http://www.meetup.com/kc-spring/events/233830905/[Live long and prosper using highly logical testing with Spock]
+
+* Presenter https://github.com/codingdiscer[Dan Dowma]
+* https://github.com/kcsug/sug-spock-groovy[Source Code]
+
+== September 7th, 2016 http://www.meetup.com/kc-spring/events/233286062/[Clean Spring]
+
+* Presenter https://twitter.com/fpmoles[Frank Moley]
+* https://github.com/kcsug/clean-spring/raw/master/Clean%20Spring.pdf[Slides]
+
+== August 3, 2016 http://www.meetup.com/kc-spring/events/232444262/[Databound Spring]
+
+* Presenter: https://github.com/dwettlaufer[Doug Wettlaufer]
+* Source Code: https://github.com/kcsug/data-bound-spring
+
+== July 6th, 2016 
+
+No Meetup for 4th of July
+
 == June 1, 2016 http://www.meetup.com/kc-spring/events/230115070/[Bootiful Data Integration]
 
 * Presenter: https://github.com/starbuxman[Josh Long]
