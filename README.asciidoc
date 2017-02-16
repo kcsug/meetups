@@ -3,6 +3,7 @@
 == Februrary 1st, 2017 https://www.meetup.com/kc-spring/events/236818405/[Securely Managing Secrets with Spring Vault]
 
 * Presenter https://twitter.com/rob_winch[Rob Winch]
+* https://www.youtube.com/watch?v=GuMabUFBFf8[Presentation]
 * https://github.com/kcsug/spring-vault-talk/raw/master/securely-managing-secrets-with-spring-vault.pdf[Download Slides]
 * https://github.com/kcsug/spring-vault-talk[Source Code]
 
