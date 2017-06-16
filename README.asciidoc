@@ -1,5 +1,14 @@
 = Past Meetups
 
+
+== June 14th, 2017 https://www.meetup.com/kc-spring/events/237344428/[Spring and JavaScript Working Together]
+
+* Presenter https://github.com/sbromley07[Steven Bromley]
+* https://docs.google.com/presentation/d/1n_adVNpjLikNmBN69AcHHvuZBiE4gVGsWqWfiaWSp_A/edit?usp=sharing[Slides]
+* https://github.com/kcsug/simple-boot-webapp-demo[Source Code (simple-boot-webapp-demo)]
+* https://github.com/kcsug/spa-boot-demo[Source Code (SPA Boot Demo)]
+
+
 == Februrary 1st, 2017 https://www.meetup.com/kc-spring/events/236818405/[Securely Managing Secrets with Spring Vault]
 
 * Presenter https://twitter.com/rob_winch[Rob Winch]
