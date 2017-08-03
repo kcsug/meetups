@@ -1,5 +1,13 @@
 = Past Meetups
 
+== August 2nd, 2017 https://www.meetup.com/kc-spring/events/237043686/[Reactive Spring with Josh Long & Mark Heckler]
+
+* Presenters http://twitter.com/starbuxman[Josh Long] & https://twitter.com/MkHeck[Mark Heckler] 
+* https://github.com/kcsug/flux-flix-service[Source Code]
+
+== July 5th, 2017 No Meetup
+
+No meetup due to 4th of July Break
 
 == June 14th, 2017 https://www.meetup.com/kc-spring/events/237344428/[Spring and JavaScript Working Together]
 
