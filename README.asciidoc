@@ -1,10 +1,10 @@
 = Past Meetups
 
-== September 6th, 2017 https://www.meetup.com/kc-spring/events/237684551/[Document more with less suck using Swagger]
+== October 4th, 2017 https://www.meetup.com/kc-spring/events/243382238/[Spring Into Better Unit Testingm]
 
 * Presenters http://twitter.com/BillyKorando[Billy Korandoo]
 * https://github.com/kcsug/spring-news-october/blob/master/Spring%20News%20October.pdf[Spring News October]
-* https://github.com/kcsug/Spring-into-better-unit-testing/blob/master/Effective%20Unit%20Testing%20in%20Spring%20.pdf [Slides]
+* https://github.com/kcsug/Spring-into-better-unit-testing/blob/master/Effective%20Unit%20Testing%20in%20Spring%20.pdf[Slides]
 * https://github.com/kcsug/ps-effective-automated-testing-in-spring[Source Code]
 
 == September 6th, 2017 https://www.meetup.com/kc-spring/events/237684551/[Document more with less suck using Swagger]
